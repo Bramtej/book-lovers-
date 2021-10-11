@@ -1,0 +1,226 @@
+body
+ {
+   background-color: yellow;
+   background: cover;
+ }
+
+
+
+.button1 {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+.button2 {
+    background-color: #0004f1; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 200px;
+    border-radius: 10px;
+}
+
+p  {
+    font-size: 49px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: blue;
+    font: bold;
+}
+
+h1 {
+    font-family: cursive;
+    margin-top: -550px;
+    color: red;
+    font: bold;
+}
+
+.buttonteluguh {
+    text-align: center;
+    width: 150px;
+}
+
+.buttontelugun {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.sp {
+    margin: 120px;
+
+}
+.bt {
+    margin: 280px;
+}
+
+.spe {
+    margin: 100px;
+}
+
+.bte {
+    margin: 235px;
+}
+
+.sp1 {
+   margin-top: 550px;
+}
+
+.bt1 {
+    margin-top: 150px;
+    margin-left: 25px;
+}
+
+.bte1 {
+    margin-left: 40px;
+}
+
+.button3 {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+.button4 {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+.clickb 
+{
+    float :left;
+    margin: 5px;
+   font-size: x-large;
+   background-color: red;
+   border-radius: 10px;
+}
+
+.clickeb
+{
+    background-color: chartreuse;
+    color: royalblue;
+    font-size: x-large;
+    margin:5px;
+    border-radius: 10px;
+}
+
+.clicktb
+{
+    background-color: chartreuse;
+    color:royalblue;
+    font-size: x-large;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.sp2
+{
+    margin: 200px;
+}
+
+.sp3
+{
+    margin:40px;
+}
+
+.sp4
+{
+    margin: 70px;
+}
+
+.button5
+{
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+.btt{
+margin: 270px;
+}
+
+.btt1{
+    margin: 60px;
+}
+
+.spe2
+{
+    margin:190px;
+}
+
+.spe3
+{
+    margin:10px;
+}
+
+.spe4
+{
+    margin: 90px;
+}
+
+.button6
+{
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+.bte2
+{
+    margin: 270px;
+}
+
+.bte3
+{
+    margin: 160px;
+}
+
+.bte4
+{
+    margin:150px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color:red;
+    text-align: center;
+    font-size: 50px;
+ }
